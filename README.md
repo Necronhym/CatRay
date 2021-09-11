@@ -1,2 +1,2 @@
 # CatRay
-A arduino powered twin servo laser cat toy controled vil mouse
+An arduino powered twin servo laser cat toy controled with a mouse
